@@ -58,11 +58,13 @@
 | Michael Hausenblas | https://medium.com/@mhausenblas | Open Shift, Kubernetes |
 | Mike Bostock | https://bost.ocks.org/mike/ | D3.js 창시자 |
 | Mike Gouline | https://blog.gouline.net/ | |
+| Mike McQuaid | https://mikemcquaid.com/ | Homebrew Lead Maintainer |
 | Mike Nakhimovich | https://medium.com/@theMikhail | Google Developer Expert Android |
 | Nicolai Parlog | http://blog.codefx.org/, https://medium.com/@nipa | Java channel editor at SitePoint |
 | Phil Haack | http://haacked.com/ | Github 개발자 |
 | Paul Bakker | http://paulbakker.io/ | Modular Cloud Apps with OSGI 저자 |
 | Paul Lewis | https://aerotwist.com/ | Google Web Developer |
+| Prateeksha Singh | https://medium.com/@pratu16x7 | Open Source Developer at Frappé |
 | Ricardo Cabello | http://mrdoob.com/ | Three.js 창시자 |
 | Richard Stallman | https://www.stallman.org/ | Free Software Foundation, GNU Project 창시자 |
 | Robert C. Martin | http://blog.cleancoder.com/ | 클린 코드 저자 |
@@ -85,17 +87,18 @@
 |---|---|---|
 | A List Apart | http://alistapart.com/ | Web |
 | Android Developers Blog | https://android-developers.googleblog.com/ | |
+| Aurelia Blog | http://aurelia.io/blog/ | Aurelia |
 | AutoCAD DevBlog | http://adndevblog.typepad.com/autocad/ | |
 | Awwwards Blog | http://www.awwwards.com/blog/ | Web |
 | Baeldung | http://www.baeldung.com/ | Java, Spring |
 | BlackBerry Developer Blog | http://devblog.blackberry.com/ | |
 | Built.io | https://www.built.io/blog/ | |
-| Code as Craft(Andrew Johnson) | https://codeascraft.com/ | |
+| Code as Craft(Etsy) | https://codeascraft.com/ | |
 | Comunications of the ACM | http://cacm.acm.org/blogs/about-the-blogs | |
 | Dr.Dobb's | http://www.drdobbs.com/blogs/ | |
 | Dropbox Tech Blog | https://blogs.dropbox.com/tech/ | |
-| Durandal | http://blog.durandal.io/ | Web |
 | DZone | https://dzone.com/ | |
+| Elastic Blog | https://www.elastic.co/blog | Elastic Stack |
 | Evernote Tech Blog | http://blog.evernote.com/tech/ | |
 | Facebook Code | https://code.facebook.com/ | |
 | Facebook Developers | https://www.facebook.com/FacebookDevelopers | |
@@ -119,6 +122,7 @@
 | Kublr Team | https://blog.kublr.com/ | Kubernetes |
 | LINE | http://developers.linecorp.com/blog/ | |
 | Lua.Space | http://lua.space/ | Lua Community Blog |
+| MicroProfile Blog | https://microprofile.io/blog | MicroProfile |
 | Microsoft Edge Dev Blog | https://blogs.windows.com/msedgedev/ | |
 | Microsoft Outlook Dev Blog | http://blogs.msdn.com/b/exchangedev/ | |
 | MySQL | http://dev.mysql.com/ | |
@@ -138,6 +142,7 @@
 | Parrot Dev Blog | http://developer.parrot.com/blog/ | Drone |
 | PayPal Developer | https://devblog.paypal.com/ | |
 | Prismatik | https://blog.prismatik.com.au/ | |
+| Qt Blog | http://blog.qt.io/ | QT |
 | Red Hat Developer Blog | http://developerblog.redhat.com/ | |
 | RemObjects | http://blogs.remobjects.com/ | |
 | Riot Games Engineering | http://engineering.riotgames.com/ | Game |
@@ -146,6 +151,7 @@
 | Samsung Mobile Security Blog | http://security.samsungmobile.com/ | |
 | Scalac | http://blog.scalac.io/ | Scala, Akka |
 | SDxCentral | https://www.sdxcentral.com/ | SDx |
+| Slack Engineering | https://slack.engineering/ | |
 | Stack Builder | http://www.stackbuilders.com/ | |
 | Takipi blog | http://blog.takipi.com/ | |
 | The New Stack | http://thenewstack.io/ | |
@@ -153,7 +159,7 @@
 | Toptal Engineering Blog | http://www.toptal.com/blog | |
 | Treehouse Blog | http://blog.teamtreehouse.com/ | |
 | Twitter Developer Blog | https://blog.twitter.com/developer/ | |
-| Uber Developer Blog | http://devblog.uber.com/ | |
+| Uber Engineering Blog | https://eng.uber.com/ | |
 | Ubuntu Insights | https://insights.ubuntu.com/ | Ubuntu |
 | Ubuntu Handbook | http://ubuntuhandbook.org/ | Ubuntu |
 | Unity | http://blogs.unity3d.com/ | 3D Graphics |
